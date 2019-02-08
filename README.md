@@ -1,6 +1,6 @@
 # JointModelsClinicalPractice_OsloPresentation
 
-**Assessing Risk Indicators in Clinical Practice with Joint Models of Longitudinal and Time-to-Event Data**
+## **Assessing Risk Indicators in Clinical Practice with Joint Models of Longitudinal and Time-to-Event Data**
 
 Studies in life course epidemiology often involve different types of outcomes and exposures being collected on individuals, 
 who are followed over time. The data include longitudinally measured responses (e.g., biomarkers), and the time until an event 
